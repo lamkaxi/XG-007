@@ -1,0 +1,30 @@
+{
+  "name": "RTX-01",
+  "description": "RTX-01",
+  "keywords": [
+    ""
+  ],
+  "env": {
+    "PROTOCOL": {
+      "description": "请填小写的vless",
+      "value": "vless",
+      "required": true
+    },
+    "UUID": {
+      "description": "UUID",
+      "value": "",
+      "required": false
+    },
+    "WS_PATH": {
+      "description": "websocket路径",
+      "value": "/ray",
+      "required": true
+    }
+  },
+  "website": "https://github.com/YundtTheresa/XR-001",
+  "repository": "https://github.com/YundtTheresa/XR-001",
+  "stack": "container",
+  "features": [
+    "runtime-dyno-metadata"
+  ]
+}
