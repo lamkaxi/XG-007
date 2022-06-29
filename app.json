@@ -1,8 +1,8 @@
 {
-  "name": "RTX-01",
-  "description": "RTX-01",
+  "name": "XG-OO7",
+  "description": "XH-007",
   "keywords": [
-    ""
+    
   ],
   "env": {
     "PROTOCOL": {
@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/YundtTheresa/XR-001",
-  "repository": "https://github.com/YundtTheresa/XR-001",
+  "website": "https://github.com/lamkaxi/XG-007",
+  "repository": "https://github.com/lamkaxi/XG-007",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
