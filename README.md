@@ -1,1 +1,1 @@
-[XR-001](https://heroku.com/deploy?template=https://github.com/YundtTheresa/XR-001.git)
+[XG-007](https://heroku.com/deploy?template=https://github.com/lamkaxi/XG-007.git)
